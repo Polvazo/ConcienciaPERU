@@ -49,7 +49,7 @@ public class FirabaseClient {
                     ds.child("animales").getValue(Animales.class).getDescripcion();
 
 
-// luchito
+// luchito esta cagadazp
 
                 }
             }
