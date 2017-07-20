@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362332085422",
+    "firebase_url": "https://concienciaperu-5868d.firebaseio.com",
+    "project_id": "concienciaperu-5868d",
+    "storage_bucket": "concienciaperu-5868d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362332085422:android:769e134be93d8255",
+        "android_client_info": {
+          "package_name": "com.polvazo.concienciaperu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362332085422-8267r39mmocfma3ec65bf69phi53dgj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polvazo.concienciaperu",
+            "certificate_hash": "d695d3f00fdf74181410f7516e2953d5e47182ca"
+          }
+        },
+        {
+          "client_id": "362332085422-nlstec0ka7fklpk7kj0n35nqarsn9j7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzt7rjra5GWPsAfPPX7XDXjbLXfPYi8Ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362332085422-nlstec0ka7fklpk7kj0n35nqarsn9j7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
